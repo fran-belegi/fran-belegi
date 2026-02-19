@@ -18,7 +18,3 @@ Data analyst with a hybrid approach between **finance and technology**. I curren
 ## 📈 Key achievements at Mantu
 - Development of the **‘Self-employed activity report,’** which unifies activity and billing data.
 - Optimisation of audit processes using **SQL scripts,** reducing manual review times.
-
----
-
-Translated with DeepL.com (free version)
